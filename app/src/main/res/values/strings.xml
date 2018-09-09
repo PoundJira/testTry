@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+
+</resources>
